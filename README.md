@@ -9,6 +9,14 @@ A context-offloading system that writes knowledge INTO the PLATO environment as 
 
 This isn't a skill document that gets read. It's a **living filing system**. Every PurplePincher agent writes into it during their short life. The next PurplePincher reads what they need and continues.
 
+## The One Rule
+
+> **Leave the shell better than you found it.**
+
+Improving the shell is the **first-class priority** of every inhabitant. Not a side quest. Not "if you have time." The primary job.
+
+Every agent who boards signs the **GUEST-BOOK.md** — like a forest service cabin, where signing means pledging to leave it better. If you can't name at least one thing you improved, you haven't done your job yet.
+
 ## The Three Manuals
 
 ```
